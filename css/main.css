@@ -21,7 +21,7 @@ a {
   display: inline-block;
   background-color: #333;
   color: #f2f2f2;
-  border-width: 3px
+  border-width: 3px;
 }
 
 .btn:hover {
@@ -105,8 +105,6 @@ section {
   border-left: 1px solid #333;
   border-right: 1px solid #333;
 }
-
-/* image */
 
 img {
   width: 100px;
