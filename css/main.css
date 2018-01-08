@@ -50,3 +50,56 @@ img {
   display: block;
   margin: 0 auto 1.5rem 6.75rem;
 }
+
+div h2 {
+  font-weight: bold;
+  font-size: 1rem;
+  margin: 0;
+  padding: 0 0 .15rem;
+}
+
+div h3 {
+  font-style: italic;
+  font-size: .82rem;
+  font-weight: normal;
+  margin: 0;
+  padding: 0 0 .15rem;
+}
+
+div p {
+  font-size: 1rem;
+  margin: 0;
+  padding: 0 0 .15rem;
+}
+
+.btn {
+  display: inline-block;
+  padding: .4em .75em .3em;
+  background-color: #333;
+  border-radius: 8px;
+  border: 3px solid #333;
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.125rem;
+  margin: 1.45rem 0 2.3rem;
+}
+
+.knights {
+  background-color: #ccc;
+}
+
+.dragon {
+  background-color: #aaa;
+}
+
+.laser-ships {
+  background-color: #999;
+}
+
+.btn-small {
+  font-size: .875rem;
+}
+
+.btn:hover {
+  background-color: #000;
+}
